@@ -1,5 +1,5 @@
 <?php
-
+use Illuminate\Support\Facades\Route;
 /*
  * This file is part of the gedongdong/laravel_rbac_permission.
  *
